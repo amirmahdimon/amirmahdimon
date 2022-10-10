@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amirmahdimon
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning machine Learning
