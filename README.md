@@ -25,7 +25,7 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :cactus: Frameworks and Libraries : 
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 ### 💻 Software and Tools: 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,blender,ae,pr,ps,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,cloudflare,blender,ae,pr,ps,git,github)](https://skillicons.dev)
 
 ---
 <b>My GitHub Stats</b>
