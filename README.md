@@ -7,15 +7,21 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :bridge_at_night:  As a FrontEnd Developer , I create mobile Applications.
 - :movie_camera: As a Editor I Edit Videos With AdobePremire 
-- 
+  
 
 ---
 
-### 📌 My Social
+## 📌 My Social
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirmahdi-montazeri/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Amirmahdimon)
 
+## 🛠  Languages :
 
+### 👨‍💻 Programming and Markup Language :
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,python,c,mysql,)](https://skillicons.dev)
+
+
+---
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/amirmahdimon"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdimon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="amirmahdimon's GitHub stats" /></a>
