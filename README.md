@@ -14,13 +14,18 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## 📌 My Social
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirmahdi-montazeri/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Amirmahdimon)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/amirmahdimon)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amirmhdimon)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22156629/amirmahdimon)
 
 ## 🛠  My Skills :
 
 ### 👨‍💻 Programming and Markup Language :
 [![My Skills](https://skillicons.dev/icons?i=dart,java,python,c,mysql,kotlin)](https://skillicons.dev)
 ### :cactus: Frameworks and Libraries : 
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+### 💻 Software and Tools: 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,blender,ae,pr,ps,git,github)](https://skillicons.dev)
 
 ---
 <b>My GitHub Stats</b>
