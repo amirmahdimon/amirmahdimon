@@ -10,7 +10,9 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :robot: work with ML(MachineLearning)
 - :mountain_snow: Mountain climber
 - :soccer: professional soccer player
-- 
+- :microphone: Presenter and announcer
+- :musical_note: Santur(classical persian instrument)Player
+- :satellite: ContentCreator(YouTube)
   
 
 ---
