@@ -24,9 +24,9 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## 🛠  My Skills :
 
 ### 👨‍💻 Programming and Markup Language :
-[![My Skills](https://skillicons.dev/icons?i=dart,java,python,c,mysql,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,java,python,c,mysql,kotlin,swift)](https://skillicons.dev)
 ### :cactus: Frameworks and Libraries : 
-[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,mongodb)](https://skillicons.dev)
 ### 💻 Software and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,cloudflare,blender,ae,pr,ps,git,github)](https://skillicons.dev)
 
